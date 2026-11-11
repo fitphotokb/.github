@@ -1,6 +1,6 @@
 # FitPhotoKB — Free Image Compressor to Any KB or MB Size
 
-[FitPhotoKB](https://fitphotokb.com/) is a free, browser-based image 
+[FitPhotoKB — compress images to any KB/MB size](https://fitphotokb.com/) is a free, browser-based image 
 compression tool that lets you compress any image to an exact file size 
 target — no uploads, no account, no installation required.
 
@@ -38,4 +38,5 @@ it instantly — no need to save it first.
 
 ## Try it
 
-[fitphotokb.com](https://fitphotokb.com/)
+[Compress images free — fitphotokb.com](https://fitphotokb.com/)
+
